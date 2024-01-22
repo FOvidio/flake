@@ -1,6 +1,6 @@
-# ZaneyOS 🟰 Best ❄️ NixOS Configs
+#  ❄️ NixOS Configs
 
-ZaneyOS is a way of reproducing my configuration on any NixOS system. This includes the wallpaper, scripts, applications, config files, and more. *Please remember to change username and hostname in flake.nix.*
+NixOS Configs is a way of reproducing my configuration on any NixOS system. This includes the wallpaper, scripts, applications, config files, and more. *Please remember to change username and hostname in flake.nix.*
 
 ![](demo.jpg)
 
